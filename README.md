@@ -1,6 +1,7 @@
 # LoRa-gateway-single-channel-PCB
 
 ![alt text](https://github.com/akarsh98/LoRa-gateway-single-channel-PCB/blob/master/images/PCB_FRONT.JPG?raw=true)
+###                                              FRONT SIDE IMAGE OF THE PCB
 
 This PCB is a sinle channel gateway of LoRa, You can use this PCB as a node as well.
 The Pcb uses:
@@ -17,10 +18,10 @@ You get 10 good quality PCBs manufactured and shipped to your doorstep for 2$ an
 
 ![alt text](https://github.com/akarsh98/LoRa-gateway-single-channel-PCB/blob/master/images/JLCPCB_AD.jpg?raw=true)
 
-
 ![alt text](https://github.com/akarsh98/LoRa-gateway-single-channel-PCB/blob/master/images/PCB_BACK.JPG?raw=true)
+###                                              BACK SIDE IMAGE OF THE PCB
 
-This is the schematic for the project
+###This is the schematic for the project:
 ![alt text](https://github.com/akarsh98/LoRa-gateway-single-channel-PCB/blob/master/images/Schematic.JPG?raw=true)
 
 
