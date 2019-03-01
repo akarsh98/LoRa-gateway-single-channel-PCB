@@ -21,7 +21,7 @@ You get 10 good quality PCBs manufactured and shipped to your doorstep for 2$ an
 ![alt text](https://github.com/akarsh98/LoRa-gateway-single-channel-PCB/blob/master/images/PCB_BACK.JPG?raw=true)
 ###                                              BACK SIDE IMAGE OF THE PCB
 
-###This is the schematic for the project:
+### This is the schematic for the project:
 ![alt text](https://github.com/akarsh98/LoRa-gateway-single-channel-PCB/blob/master/images/Schematic.JPG?raw=true)
 
 
